@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke test">
+    <test name="Bank application">
+        <classes>
+            <class name="testclasses.ClassesForTestTest">
+
+            </class>
+            <class name="testclasses.Soft_Assert">
+
+            </class>
+        </classes>
+
+    </test>
+
+</suite>

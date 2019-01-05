@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke test">
+    <test name="GroupTest">
+        <groups>
+            <define name="runAll">
+                <include name="suv">
+
+                </include>
+                <include name="sedan">
+
+                </include>
+            </define>
+            <run>
+                <include name="runAll">
+
+                </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="testclasses.TestNG_Grouping">
+
+            </class>
+
+        </classes>
+
+    </test>
+</suite>
