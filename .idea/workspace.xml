@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ef7279b-d23b-4ddb-954b-247bec1e628e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ItestResultts/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ItestResultts/Apple.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,10 +16,10 @@
     <session id="-987570973">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -29,48 +30,39 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="55" />
+          <entry key="java" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="55" />
+          <entry key="JAVA" value="83" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ItestResultts/TestNG_ITestResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ItestResultts/Apple.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ItestResultts/TestSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,12 +84,26 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Kutmanai" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/ItestResultts/BugHunters.java" />
         <option value="$PROJECT_DIR$/src/test/java/ItestResultts/Apple.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ItestResultts/TestSteps.java" />
       </list>
     </option>
   </component>
@@ -111,16 +117,14 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1366" />
-    <option name="height" value="700" />
+    <option name="height" value="699" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,16 +153,26 @@
             <path>
               <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ItestResultts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestNg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestNg" type="462c0819:PsiDirectoryNode" />
               <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547423220674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547430902221" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -216,9 +230,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="700" extended-state="0" />
+    <frame x="0" y="23" width="1366" height="699" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2587519" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26331812" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -232,8 +246,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32881355" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49923897" visible="true" weight="0.32597622" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50076103" side_tool="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49847794" visible="true" weight="0.3265306" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50152206" side_tool="true" weight="0.3265306" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -304,9 +318,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -317,6 +328,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ItestResultts/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ItestResultts/TestNG_ITestResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -324,13 +346,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ItestResultts/Apple.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ItestResultts/TestSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
